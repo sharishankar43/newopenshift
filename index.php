@@ -1,5 +1,6 @@
 <?php
-
-print "hi all welcome to Quantumworld \n";
-
+echo "Hello World!";
 ?>
+
+</body>
+</html>
